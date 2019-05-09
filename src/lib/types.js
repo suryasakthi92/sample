@@ -1,0 +1,41 @@
+//Toast Message
+export const TOAST_ERROR = 'error'
+export const TOAST_SUCCESS = 'success'
+
+//Authentication
+
+export const LOGIN = 'LOGIN'
+export const SET_USER = "SET_USER"
+export const UPDATE_PROFILE_PIC = 'UPDATE_PROFILE_PIC'
+export const SET_USER_DETAILS = "SET_USER_DETAILS"
+export const SET_COURSE ="SET_COURSE"
+export const SET_COURSE_TYPES ="SET_COURSE_TYPES"
+
+
+export const SESSION_EXPIRED = 'SESSION_EXPIRED'
+
+export const LOGOUT = 'LOGOUT'
+export const REHYDRATE = 'persist/REHYDRATE'
+
+//Global State
+export const ITEMS_HAS_ERRORED = 'ITEMS_HAS_ERRORED'
+export const ITEMS_IS_LOADING = 'ITEMS_IS_LOADING'
+export const ITEMS_FETCH_DATA_SUCCESS = 'ITEMS_FETCH_DATA_SUCCESS'
+export const SUCCESS = 'SUCCESS'
+
+
+export const SET_SCHOOL_DETAILS = 'SET_SCHOOL_DETAILS'
+
+//Dashboard
+export const SET_DASHBOARD_FEATURES = "SET_DASHBOARD_FEATURES"
+export const SET_SIDEBAR_FEATURES = "SET_SIDEBAR_FEATURES"
+export const SET_DASHBOARD_DETAILS = "SET_DASHBOARD_DETAILS"
+export const SET_BANNER_IMAGE = "SET_BANNER_IMAGE"
+
+
+export const SET_TODAY_CLASS_SCHEDULE = "SET_TODAY_CLASS_SCHEDULE"
+export const SET_SUBJECT_DETAILS = "SET_SUBJECT_DETAILS"
+export const SET_BATCH ="SET_BATCH"
+
+export const SET_CENTER_LOCATION = "SET_CENTER_LOCATION"
+export const SET_CLASS_DETAILS = "SET_CLASS_DETAILS"
